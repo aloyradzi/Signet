@@ -4,7 +4,7 @@
   There is no warranty and no additional document. USE AT YOUR OWN RISK.
 */
 
-package com.fakrul.signet.fpx;
+package com.msctg.signet.fpx;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
