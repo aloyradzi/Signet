@@ -24,7 +24,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- *
+ *zzz
  * @author NB033-17
  */
 public class signetUser extends HttpServlet {
